@@ -28,6 +28,7 @@
 
 ### BPMN-схема
 [bpmn-order-process.png](./bpmn-order-process.png)
+[Подробное описание процесса →](./bpmn-description.md)
 
 **Описание:**
 - BPMN-схема процесса заказа (адаптировано на примере заказа пиццы).
@@ -36,6 +37,7 @@
 
 ### База данных
 [database-ecommerce.png](./database-ecommerce.png)
+[Подробное описание БД →](./database-description.md)
 
 **Описание:**
 - ER-диаграмма базы данных интернет-магазина.
