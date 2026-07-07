@@ -27,6 +27,7 @@
 
 ### BPMN-схема
 [bpmn-appointment.png](./bpmn-appointment.png)
+[Подробное описание процесса →](./bpmn-description.md)
 
 **Описание:**
 
