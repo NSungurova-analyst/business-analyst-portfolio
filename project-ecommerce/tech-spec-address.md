@@ -56,3 +56,4 @@ So that я мог быстро оформлять заказы без повто
 
 ## BPMN-схема
 https://stormbpmn.com/app/diagram/10c4a2b3-a440-4422-9bb3-a38ded66de3e?o=7ffd
+![BPMN-cхема процесса](.bpmn-adress-validation.png)
